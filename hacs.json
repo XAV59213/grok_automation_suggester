@@ -3,5 +3,7 @@
   "content_in_root": false,
   "render_readme": true,
   "homeassistant": "2024.6.0",
-  "hacs": "1.26.0"
+  "hacs": "1.26.0",
+  "zip_release": true,
+  "filename": "grok_automation_suggester.zip"
 }
