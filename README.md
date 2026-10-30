@@ -3,6 +3,7 @@
 ![Logo](https://raw.githubusercontent.com/XAV59213/grok_automation_suggester/main/images/Grok-Logo-Text-512x256.png)
 
 [![GitHub release](https://img.shields.io/github/v/release/XAV59213/grok_automation_suggester)](https://github.com/XAV59213/grok_automation_suggester/releases)
+[![Downloads](https://img.shields.io/github/downloads/XAV59213/grok_automation_suggester/total.svg?label=Downloads)](https://github.com/XAV59213/grok_automation_suggester/releases)
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-orange.svg?logo=home-assistant)](https://hacs.xyz/)
 
 <a href="https://www.buymeacoffee.com/xav59213">
