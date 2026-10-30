@@ -1,7 +1,9 @@
 {
   "domain": "grok_automation_suggester",
   "name": "Grok Générateur de suggestions, scripts, scènes et automatisation",
-  "codeowners": ["@XAV59213"],
+  "codeowners": [
+    "@XAV59213"
+  ],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/XAV59213/grok_automation_suggester",
@@ -12,5 +14,5 @@
     "pyyaml>=6.0",
     "voluptuous>=0.13.1"
   ],
-  "version": "1.0.5"
+  "version": "1.0.6"
 }
