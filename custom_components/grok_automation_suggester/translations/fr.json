@@ -1,0 +1,44 @@
+{
+  "title": "Grok générateur de suggestions",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configurer Grok",
+        "description": "Entrez votre clé API Grok et configurez les paramètres pour commencer à recevoir des suggestions d’automatisations. [api_error]",
+        "data": {
+          "grok_api_key": "Clé API Grok",
+          "grok_model": "Modèle de Grok",
+          "max_input_tokens": "Tokens d’entrée maximum",
+          "max_output_tokens": "Tokens de sortie maximum"
+        }
+      }
+    },
+    "abort": {
+      "already_configured": "Grok Automation Suggester est déjà configuré."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Options de Grok",
+        "description": "Mettez à jour votre configuration pour l’intégration Grok Automation Suggester.",
+        "data": {
+          "grok_api_key": "Clé API Grok",
+          "grok_model": "Modèle de Grok",
+          "max_input_tokens": "Tokens d’entrée maximum",
+          "max_output_tokens": "Tokens de sortie maximum"
+        }
+      }
+    }
+  },
+  "entity": {
+    "sensor": {
+      "suggestions": {
+        "name": "Suggestions"
+      },
+      "status": {
+        "name": "Statut"
+      }
+    }
+  }
+}
